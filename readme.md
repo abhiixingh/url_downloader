@@ -15,15 +15,13 @@ This Python script downloads content from a given URL and saves it to a specifie
 - `requests` library for downloading content from URLs.
 - `tkinter` library for the GUI (usually comes pre-installed with Python).
 
-To install the `requests` library, run:
-
-```bash
-pip install requests
 
 sample images of working-
 
-1-
+1-![Screenshot (305)](https://github.com/user-attachments/assets/6383eb22-999a-41da-99d2-3c6c69c75e1d)
 
-2-
+2-![Screenshot (307)](https://github.com/user-attachments/assets/eefccbc8-4abd-463e-814c-a8fcc344a96e)
 
-3-
+3-![Screenshot (308)](https://github.com/user-attachments/assets/f10bfb02-efc5-4191-bd6c-84e5df373773)
+
+4-![Screenshot (309)](https://github.com/user-attachments/assets/6b563c7c-2e27-42ab-85f4-40921f6704c8)
